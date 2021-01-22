@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="10dp">
+
+          <TextView
+            android:id="@+id/txtNombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Carlo" />
+
+        <TextView
+            android:id="@+id/txtApellido"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Velasquez" />
+
+        <TextView
+            android:id="@+id/txtCelular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9855455415" />
+
+        <TextView
+            android:id="@+id/txtDireccion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="jr manzanos 262" />
+
+</LinearLayout>
